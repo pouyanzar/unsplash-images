@@ -3,7 +3,9 @@ import React from "react";
 const SearchForm = () => {
   const submitHandler = (e) => {
     e.preventDefault();
-    console.log(e.target.elements.search.value);
+    const searchValue = e.tartget.elements.search.value;
+    if (!searchValue) return;
+    console.log(searchValue);
   };
   return (
     <section>

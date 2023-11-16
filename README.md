@@ -78,6 +78,7 @@ In order to use the Unsplash API to fetch images for your application, you will 
 
 #### Find the API Key and Correct URL for Searching Images
 
+API Key - xSQ9VsPkcwXbXr-u5UiuM-wr3JJYZEqB9XiERpGv_dY
 - register an app
 - authorization (hint : public authentication)
 - search functionality (hint : search photos)
